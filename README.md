@@ -1,2 +1,2 @@
-# Seungs-bot.github.io
-Website
+# Portfolio-Website
+Summer Project on Creating a Portfolio Website
